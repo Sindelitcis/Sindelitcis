@@ -1,6 +1,6 @@
 # Oi, eu sou o Rafael 👋 | Hey, I'm Rafael 👋
 
-### Vibe Coder | Web Developer | AI Enthusiast
+### AI-focused Full-Stack Developer
 
 🇧🇷 Desenvolvedor web estudando **IA e Sistemas Inteligentes de Dados** na PUCPR.
 Gosto de usar IA no processo de desenvolvimento — não só como ferramenta, mas como parte do fluxo de trabalho.
@@ -20,9 +20,9 @@ I like weaving AI into my dev workflow — not just as a tool, but as a real par
 
 ### Projetos | Projects
 
-* 🏯 **KanjiMon** — jogo web pra aprender japonês com retenção episódica /
+* 🏯 **[KanjiMon](https://github.com/Sindelitcis/KanjiMon)** — jogo web pra aprender japonês com retenção episódica /
   web game for learning Japanese with episodic retention
-* 📈 **Impulso Digital** — automação de engajamento para marketing digital /
+* 📈 **[Impulso Digital](https://github.com/Sindelitcis/ImpulsoDigital)** — automação de engajamento para marketing digital /
   engagement automation for digital marketing
 * 💻 Contribuindo para o ecossistema **moureau-dev**
 
@@ -50,5 +50,7 @@ I like weaving AI into my dev workflow — not just as a tool, but as a real par
 
 ### Contato | Contact
 
+- 📫 Email: **rafaelprobst13@gmail.com**
+- 💼 LinkedIn: **[Rafael Probst](https://www.linkedin.com/in/rafael-probst-1705583b3/)**
 - Aberto a freelas e projetos / Open for freelance work
 - 🎯 Meta 2029: trabalhar como engenheiro de IA no Japão (estudando para o JLPT N2)

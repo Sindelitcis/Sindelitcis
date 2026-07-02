@@ -1,55 +1,43 @@
 # Oi, eu sou o Rafael 👋 | Hey, I'm Rafael 👋
-
 ### AI-focused Full-Stack Developer
-
 🇧🇷 Desenvolvedor web estudando **IA e Sistemas Inteligentes de Dados** na PUCPR.
 Gosto de usar IA no processo de desenvolvimento — não só como ferramenta, mas como parte do fluxo de trabalho.
-
 🇺🇸 Web developer studying **AI & Intelligent Data Systems** at PUCPR.
 I like weaving AI into my dev workflow — not just as a tool, but as a real part of how I build things.
-
 ---
-
 ### O que ando fazendo | What I'm up to
-
+- Construindo o **MoodCut**, um pipeline de IA que transforma VODs em clipes prontos pro YouTube / building **MoodCut**, an AI pipeline that turns VODs into ready-to-publish YouTube clips
 - Explorando fluxos de desenvolvimento com **Zed** + LLMs via OpenCode
 - Rodando modelos locais com **Ollama** e **LM Studio**
-- Trabalhando com **TypeScript, JavaScript e Bun** na maior parte dos projetos
-
+- Trabalhando com **TypeScript, JavaScript, Bun e Python** na maior parte dos projetos
 ---
-
 ### Projetos | Projects
-
+* 🎬 **[MoodCut](https://github.com/Sindelitcis/moodcut)** *(em desenvolvimento / in progress)* — pipeline automático que transforma lives e podcasts em clipes pro YouTube: download, transcrição (Whisper + CUDA), análise de tópicos e humor com LLM, corte com legenda queimada, thumbnail e upload — de ponta a ponta /
+  automated pipeline that turns livestreams and podcasts into YouTube clips: download, transcription (Whisper + CUDA), LLM topic & mood analysis, subtitled cutting, thumbnail and upload — end to end
 * 🏯 **[KanjiMon](https://github.com/Sindelitcis/KanjiMon)** — jogo web pra aprender japonês com retenção episódica /
   web game for learning Japanese with episodic retention
 * 📈 **[Impulso Digital](https://github.com/Sindelitcis/ImpulsoDigital)** — automação de engajamento para marketing digital /
   engagement automation for digital marketing
 * 💻 Contribuindo para o ecossistema **moureau-dev**
-
 ---
-
 ### Stack
-
 **Linguagens & Front-End:**
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Runtimes:**
-
 ![Nullstack](https://camo.githubusercontent.com/36088e71f40cda6212e0646c657ff1899ad5a0ef6f87577596766c44b470bb73/68747470733a2f2f74696e7975726c2e636f6d2f6e756c6c737461636b2d6261646765) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 
 **Backend, Banco de Dados & Cloud:**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**IDEs & AI:**
+**IA & Media:**
+![Whisper](https://img.shields.io/badge/Whisper-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) ![LM Studio](https://img.shields.io/badge/LM_Studio-1A1A1A?style=for-the-badge)
 
-![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) ![LM Studio](https://img.shields.io/badge/LM_Studio-1A1A1A?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+**IDEs & Ferramentas:**
+![Zed](https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ### Contato | Contact
-
 - 📫 Email: **rafaelprobst13@gmail.com**
 - 💼 LinkedIn: **[Rafael Probst](https://www.linkedin.com/in/rafael-probst-1705583b3/)**
 - Aberto a freelas e projetos / Open for freelance work

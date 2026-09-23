@@ -5,21 +5,6 @@ Gosto de usar IA no processo de desenvolvimento — não só como ferramenta, ma
 🇺🇸 Web developer studying **AI & Intelligent Data Systems** at PUCPR.
 I like weaving AI into my dev workflow — not just as a tool, but as a real part of how I build things.
 ---
-### O que ando fazendo | What I'm up to
-- Construindo o **MoodCut**, um pipeline de IA que transforma VODs em clipes prontos pro YouTube / building **MoodCut**, an AI pipeline that turns VODs into ready-to-publish YouTube clips
-- Explorando fluxos de desenvolvimento com **Zed** + LLMs via OpenCode
-- Rodando modelos locais com **Ollama** e **LM Studio**
-- Trabalhando com **TypeScript, JavaScript, Bun e Python** na maior parte dos projetos
----
-### Projetos | Projects
-* 🎬 **[MoodCut](https://github.com/Sindelitcis/moodcut)** *(em desenvolvimento / in progress)* — pipeline automático que transforma lives e podcasts em clipes pro YouTube: download, transcrição (Whisper + CUDA), análise de tópicos e humor com LLM, corte com legenda queimada, thumbnail e upload — de ponta a ponta /
-  automated pipeline that turns livestreams and podcasts into YouTube clips: download, transcription (Whisper + CUDA), LLM topic & mood analysis, subtitled cutting, thumbnail and upload — end to end
-* 🏯 **[KanjiMon](https://github.com/Sindelitcis/KanjiMon)** — jogo web pra aprender japonês com retenção episódica /
-  web game for learning Japanese with episodic retention
-* 📈 **[Impulso Digital](https://github.com/Sindelitcis/ImpulsoDigital)** — automação de engajamento para marketing digital /
-  engagement automation for digital marketing
-* 💻 Contribuindo para o ecossistema **moureau-dev**
----
 ### Stack
 **Linguagens & Front-End:**
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

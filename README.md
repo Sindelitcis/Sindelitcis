@@ -1,5 +1,9 @@
 # Rafael Probst
 
+<a href="https://www.linkedin.com/in/rafael-probst-1705583b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
+<a href="mailto:rafaelprobst13@gmail.com"><img src="https://img.shields.io/badge/rafaelprobst13@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://pop3d.quest"><img src="https://img.shields.io/badge/pop3d.quest-5B5BD6?style=flat-square" alt="pop3d.quest"></a>
+
 I study Artificial Intelligence and Intelligent Data Systems at PUCPR, in Brazil.
 I work on web products and multiplayer systems, and I build AI tools that run on consumer GPUs.
 
@@ -46,15 +50,31 @@ the [Impulso Digital website](https://impulsodigitalmarketing.com.br), and Disco
 
 ## Tools
 
-TypeScript, Go, Python, Bun, Node.js, PyTorch, CUDA, Whisper, ffmpeg, Cloudflare, AWS, MongoDB, Unity.
+<p>
+  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript"></a>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Go"></a>
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" title="Python"></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" title="C"></a>
+  <a href="https://openjdk.org"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" title="Java"></a><br>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js"></a>
+  <a href="https://bun.sh"><img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" title="Bun"></a>
+  <a href="https://nullstack.app"><img src="https://tinyurl.com/nullstack-badge" alt="Nullstack" title="Nullstack"></a>
+  <a href="https://www.cloudflare.com"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" title="Cloudflare"></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" title="AWS"></a>
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" title="MongoDB"></a>
+  <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite"></a><br>
+  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" title="PyTorch"></a>
+  <a href="https://developer.nvidia.com/cuda-toolkit"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" title="CUDA"></a>
+  <a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" alt="Whisper" title="Whisper"></a>
+  <a href="https://ffmpeg.org"><img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" title="FFmpeg"></a><br>
+  <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" title="Unity"></a>
+  <a href="https://www.w3.org/TR/webgpu/"><img src="https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=webgpu&logoColor=white" alt="WebGPU" title="WebGPU"></a>
+  <a href="https://www.khronos.org/opengles/"><img src="https://img.shields.io/badge/OpenGL_ES-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL ES" title="OpenGL ES"></a>
+  <a href="https://www.meta.com/quest/"><img src="https://img.shields.io/badge/Meta_Quest-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Quest" title="Meta Quest"></a>
+</p>
 
 ## Contact
 
-rafaelprobst13@gmail.com · [LinkedIn](https://www.linkedin.com/in/rafael-probst-1705583b3/)
-
 Open to freelance work. Goal: work with AI in Japan from 2029, studying for the JLPT N2.
 
----
-
-**Em português:** estudo IA e Sistemas Inteligentes de Dados na PUCPR. Trabalho com produto web,
-sistemas multiplayer e ferramentas de IA. Aberto a freelas. Contato: rafaelprobst13@gmail.com.
+🇧🇷 Pode me escrever em português também.

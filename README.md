@@ -21,7 +21,7 @@ over SSE, and a Go SDK for session validation. The studio's open source projects
 **[Pop3D](https://pop3d.quest)**\
 Free Windows app that turns 2D video into stereoscopic 3D in real time and plays it in a VR headset.
 Depth comes from Video Depth Anything (via iw3) on PyTorch with CUDA Graphs, and the picture streams
-to a Meta Quest over Wi-Fi. Available on the Meta Horizon Store, website in 10 languages.
+to a Meta Quest over Wi-Fi. Available on the [Meta Horizon Store](https://www.meta.com/experiences/1331076283427448/), website in 10 languages.
 The [Quest app](https://github.com/Sindelitcis/pop3d-quest) is open source (GPLv3): a fork of
 Moonlight XR adapted to work as a remote monitor for the PC.
 
